@@ -3,6 +3,8 @@ Classes: Data Visualization. <br />
 These are a few assignments I worked on for my data visualization class. <br />
 Assignments: "2019 rugby stats", "Average Percentage of stem degrees awarded excluding any state awarding less than five". <br />
 Final Project: "Financial statistics for S&P 500, Gold, and Bitcoin".
+![image](https://user-images.githubusercontent.com/87837548/207743641-a029361e-a412-4868-9212-85a6d28938c7.png)
+
 
 # SQL
 Classes: Data Modeling and Data Wharehousing. <br />
