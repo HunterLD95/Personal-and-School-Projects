@@ -1,3 +1,7 @@
+# Python
+Personal Projects only! I Started learning python on my own in early 2021 and write pretty much everyday now. <br />
+During my time in school, I have only taken one class on Python called "Intro to python". The assignments were pretty simple so I won't be uploading those. 
+
 # Tableau
 Classes: Data Visualization. <br />
 These are a few assignments I worked on for my data visualization class. <br />
