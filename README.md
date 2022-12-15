@@ -15,7 +15,7 @@ Final Project: "Financial statistics for S&P 500, Gold, and Bitcoin".
 Classes: Data Modeling and Data Wharehousing. <br />
 This class was pretty much learning SQL to work up to one large project at the end. <br />
 Final Project: "Douglas_finalproject". <br />
-![Web capture_14-12-2022_20043_](https://user-images.githubusercontent.com/87837548/207754926-ec055d2b-328a-4022-b32a-ca4c705dfa04.jpeg)
+![Web capture_14-12-2022_20043_](https://user-images.githubusercontent.com/87837548/207755091-0b4759dc-9be5-4d47-87d4-0529ab8b6c44.jpeg)
 
 
 # Excel
