@@ -22,4 +22,5 @@ Final Project: "Douglas_finalproject". <br />
 Classes: Data Analysis and Knowledge Discovery. Data Analysis with Spreadsheets. <br />
 I had two classes geared toward data analysis that required us to use excel throughout the entire course. <br />
 Final project: "Data Anlysis Final project" and Report: "DA and KD Final Project". <br />
-![image](https://user-images.githubusercontent.com/87837548/207755301-a01e0eda-5cd4-442b-a19c-a94562a1f16f.png)
+![Web capture_14-12-2022_20524_](https://user-images.githubusercontent.com/87837548/207755453-4d7a4e05-866b-461a-a4c1-482d3f76a175.jpeg)
+
