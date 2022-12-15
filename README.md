@@ -1,6 +1,6 @@
 # Python
 Personal Projects only! I Started learning python on my own in early 2021 and write pretty much everyday now. <br />
-During my time in school, I have only taken one class on Python called "Intro to python". The assignments were pretty simple so I won't be uploading those. 
+During my time in school, I have only taken one class on Python called "Intro to python". The assignments were pretty simple so I won't be uploading those. <br />
 Projects: "WFA"
 
 # Tableau
@@ -15,6 +15,7 @@ Final Project: "Financial statistics for S&P 500, Gold, and Bitcoin".
 Classes: Data Modeling and Data Wharehousing. <br />
 This class was pretty much learning SQL to work up to one large project at the end. <br />
 Final Project: "Douglas_finalproject". <br />
+![Web capture_14-12-2022_20043_](https://user-images.githubusercontent.com/87837548/207754926-ec055d2b-328a-4022-b32a-ca4c705dfa04.jpeg)
 
 
 # Excel
