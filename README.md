@@ -10,6 +10,8 @@ Final Project: "Financial statistics for S&P 500, Gold, and Bitcoin".
 Classes: Data Modeling and Data Wharehousing. <br />
 This class was pretty much learning SQL to work up to one large project at the end. <br />
 Final Project: "Douglas_finalproject". <br />
+![image](https://user-images.githubusercontent.com/87837548/207743961-b1403f33-8df4-4be8-a0ed-312a3de05338.png)
+
 
 # Excel
 Classes: Data Analysis and Knowledge Discovery. Data Analysis with Spreadsheets. <br />
